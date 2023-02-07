@@ -1,5 +1,4 @@
-# Data-Science
-Loan Prediction Analysis
+# Loan Prediction Analysis
 Loan analysis is an evaluation method that determines if loans are made on feasible terms and if potential borrowers can and are willing to pay back the loan.
 
 It checks the eligibility of the potential borrower against the criteria set forth for lending.Loan analysis is an evaluation method that determines if loans are made on feasible terms and if potential borrowers can and are willing to pay back the loan.
